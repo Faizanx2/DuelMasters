@@ -1,0 +1,8 @@
+name,race,civilization,mana,power,isCreature,condition,c
+Brawler Zyler,Human ,F,2,1000,yes,Power Attacker+2000,6
+Imortal Baron Vorg,Human ,F,2,2000,yes,,6
+Explosive Dude Joe,Human ,F,3,3000,yes,,6
+Deadly fighter Braid Claw,Dragonoid,F,1,1000,yes,,6
+Armored Blaster Valdios,Human ,F,4,6000,yes,Double Breaker/evolution,6
+Crimson Hammer,spell,F,2,2000,no,destroy 1 with 2000 or less,6
+Apocalypse Vise,spell,F,7,8000,no,Any number 8000 or less,4
